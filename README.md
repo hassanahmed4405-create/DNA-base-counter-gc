@@ -1,2 +1,2 @@
 # DNA-sequence-analyzer-
-DNA Base Counter  This is a beginner Python script that counts nucleotides (A, T, G, C) in a DNA sequence.
+“This project demonstrates basic genomic data processing using Python by analyzing DNA sequences and calculating nucleotide frequencies and GC content.”
